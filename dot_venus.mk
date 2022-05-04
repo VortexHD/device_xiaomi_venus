@@ -14,6 +14,7 @@ $(call inherit-product, device/xiaomi/venus/device.mk)
 # Inherit some common DotOS stuff.
 $(call inherit-product, vendor/dot/config/common.mk)
 TARGET_SUPPORTS_QUICK_TAP := true
+TARGET_USES_AOSP_RECOVERY := true
 
 PRODUCT_BRAND := Xiaomi
 PRODUCT_DEVICE := venus
