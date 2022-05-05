@@ -1,11 +1,11 @@
 [
   {
-    "repository": "device_xiaomi_sm8350-common",
+    "repository": "VortexHD/device_xiaomi_sm8350-common",
     "target_path": "device/xiaomi/sm8350-common",
-    "branch": "twelve"
+    "branch": "12"
   },
   {
-    "repository":  "kernel_xiaomi_venus",
+    "repository":  "jjpprrrr/kernel_xiaomi_venus",
     "target_path": "kernel/xiaomi/venus",
     "branch": "twelve"
   },
