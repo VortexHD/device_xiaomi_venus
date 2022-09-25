@@ -34,10 +34,7 @@ PRODUCT_PACKAGES += \
     SettingsProviderOverlayVenus \
     SettingsResVenus \
     SystemUIResVenus
-
-# Pixel Wallpapers (2021)
-PRODUCT_PACKAGES += \
-    PixelWallpapers2021
+    SystemUIResVenus
 
 # PowerShare
 PRODUCT_PACKAGES += \
